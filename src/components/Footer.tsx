@@ -6,10 +6,10 @@ const Footer: FC = () => (
     <div>&copy; Copyright | All Rights Reserved</div>
     <div>
       <Link
-        to="https://alim1496.github.io/"
+        to="https://www.ibrahimabdulkarim.biz/"
         className="hover:underline hover:font-bold opacity-85 hover:opacity-100"
       >
-        M A Alim
+        Iabdulkarim
       </Link>
     </div>
   </div>
