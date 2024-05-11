@@ -6,7 +6,7 @@ const Footer: FC = () => (
     <div>&copy; Copyright | All Rights Reserved</div>
     <div>
       <Link
-        to="https://www.ibrahimabdulkarim.biz/"
+        to="/"
         className="hover:underline hover:font-bold opacity-85 hover:opacity-100"
       >
         B.F Rugga
