@@ -9,7 +9,7 @@ const Footer: FC = () => (
         to="https://www.ibrahimabdulkarim.biz/"
         className="hover:underline hover:font-bold opacity-85 hover:opacity-100"
       >
-        Iabdulkarim
+        B.F Rugga
       </Link>
     </div>
   </div>
